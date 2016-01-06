@@ -1,0 +1,2 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+A: When I run git init command, a new empty git repository will be initialized? I need to do it because I want to create a new repository in a desired location. In addition I can also run git status to see the initial commit.
