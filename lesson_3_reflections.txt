@@ -10,3 +10,6 @@ A: Fork is a GitHub specific term and can be used on GitHub only. Cloning is ver
 
 Q. What is the benefit of having a copy of the last known state of the remote stored locally?
 A: It is always good to have a copy of last known state of remote stored locally because if someone changes the contents so as to avoid conflicts between the same version of the file.
+
+Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: I can collaborate without using Git or GitHub by emailing or keeping a shared folder with Microsoft's OneDrive or Google Drive. But it would be lot more difficult using these to collaborate as it would get more worse as the length of code increases, so collaborating using Git and GitHub would be much more easier.
