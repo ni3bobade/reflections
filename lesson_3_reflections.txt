@@ -13,3 +13,6 @@ A: It is always good to have a copy of last known state of remote stored locally
 
 Q. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: I can collaborate without using Git or GitHub by emailing or keeping a shared folder with Microsoft's OneDrive or Google Drive. But it would be lot more difficult using these to collaborate as it would get more worse as the length of code increases, so collaborating using Git and GitHub would be much more easier.
+
+Q. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: If I want to experiment with the features of my app I can do it with another branch or I can allow others to make changes to different branch instead of the master one. This approach allows others to send me pull requests and I can watch for their changes to merge their changes to master branch.
